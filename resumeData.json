@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Lauro Pimentel",
+    "occupation": "Full Stack Developer",
+    "description": "",
+    "image": "LauroMTP.jpeg",
+    "bio": "My name is Lauro, I'm a Full Stack Web Developer.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "lauropimentel12@gmail.com",
+    "phone": "+55 11 92002 3609",
+    "address": {
+      "street": "Av José Gomes da Rocha Leal 1451",
+      "city": "Bragança Paulista",
+      "state": "SP",
+      "zip": "12900-300",
+      "nationality": "Brazilian"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "/resume.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/david.nick.123829",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/lauro-pimentel-a9ba3b138/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/lauromtp/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/macdev14",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Always learning..",
+    "education": [
+      {
+        "school": "University of Harvard",
+        "degree": "Intro to Computer Science",
+        "graduated": "December 2020",
+        "description": "Working on final project."
+      }
+    ],
+    "work": [
+      {
+        "company": "Peppertools",
+        "title": "TI Manager && CNC Programmer",
+        "years": "April 2017 - Present",
+        "description": "Developing business solutions and working with threading machines."
+      },
+      {
+        "company": "IZOTX Brazil",
+        "title": "Front End",
+        "years": "Mar 2017 - Jul 2017",
+        "description": "Worked on html development."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "SQL",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "B2MO Tech",
+        "category": "Startup site built with LAMP (Linux, Apache, MySQL, PHP)",
+        "image": "port1.png",
+        "url": "https://b2motech.com.br"
+      },
+      {
+        "title": "Coronavirus website",
+        "category": "Covid site built with Python and JavaScript",
+        "image": "port3.png",
+        "url": "https://covid-2019-0.herokuapp.com"
+      },
+      {
+        "title": "Epoxy Business with WordPress",
+        "category": "Ecommerce built with WordPress",
+        "image": "port2.png",
+        "url": "https://www.epoxibraganca.com.br"
+      },
+      {
+        "title": "Company Management System",
+        "category": "System Clone built with Python and JavaScript",
+        "image": "port5.png",
+        "url": "https://peppertools.cf"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+    
+      {
+        "text": "That Lauro Pimentel must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
