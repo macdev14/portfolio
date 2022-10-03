@@ -8,6 +8,7 @@ venv
 
 ## visual studio code settings
 .vscode
+.env
 
 ### ignore sqlite3
 
