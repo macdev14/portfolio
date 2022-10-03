@@ -60,6 +60,8 @@ MIDDLEWARE = [
     "django.middleware.clickjacking.XFrameOptionsMiddleware",
 ]
 
+CSRF_TRUSTED_ORIGINS = ['https://lauromtp.com']
+
 ROOT_URLCONF = "django_portfolio.urls"
 
 TEMPLATES = [
