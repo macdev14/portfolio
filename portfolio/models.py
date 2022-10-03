@@ -11,6 +11,7 @@ class Project(models.Model):
     description = CharField(max_length=250)
     image = ImageField(upload_to="portfolio/images")
     url = URLField(blank=True)
+    github = URLField(blank=True)
     date = DateField(default=date.today)
 
     def __str__(self) -> str:
