@@ -10,8 +10,10 @@ venv
 .vscode
 .env
 
+blog/.DS_Store
 
-
+.DS_Store
+portfolio/.DS_Store
 ### ignore sqlite3
 
 db.sqlite3.DS_Store
