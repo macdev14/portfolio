@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Lauro Pimentel",
-    "occupation": "Full Stack Developer",
+    "occupation": "Software Engineer",
     "description": "",
     "image": "LauroMTP.jpeg",
-    "bio": "My name is Lauro, I'm a Full Stack Web Developer.",
+    "bio": "My name is Lauro, I'm a Software Engineer.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "lauropimentel12@gmail.com",
     "phone": "+55 11 92002 3609",
@@ -13,9 +13,9 @@
       "city": "Bragança Paulista",
       "state": "SP",
       "zip": "12900-300",
-      "nationality": "Brazilian"
+      "nationality": "Italian/Brazilian"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.lauromtp.com",
     "resumedownload": "/resume.pdf",
     "social": [
       {
@@ -47,16 +47,53 @@
         "school": "University of Harvard",
         "degree": "Intro to Computer Science",
         "graduated": "December 2020",
-        "description": "Working on final project."
+        "description": "Finished"
+      },
+      {
+        "school": "University of Harvard",
+        "degree": "Web development with Python and Javascript",
+        "graduated": "December 2023",
+        "description": "Finishing Final Project"
+      },
+      {
+        "school": "National Service of Industrial Learning",
+        "degree": "Intro to Android Development with Kotlin",
+        "graduated": "December 2021",
+        "description": "Finished"
+      },
+      {
+        "school": "Federal Institute of Education, Science and Technology of São Paulo",
+        "degree": "System Analysis and Development",
+        "graduated": "August 2024",
+        "description": "Finishing..."
       }
     ],
     "work": [
       {
+        "company": "TMAX Technology",
+        "title": "Full Stack Developer",
+        "years": "Feb 2023 - Present",
+        "description": "Working with mobile app development and web development using Next.js, React Native, Laravel and Yii"
+      },
+      {
+        "company": "BeyTech IT",
+        "title": "Python Full Stack Developer",
+        "years": "March 2022 - June 2022",
+        "description": "Engineered an Django Application for Bitrix24 Project."
+      },
+      {
+        "company": "My Startup InProcesses.com",
+        "title": "Python Full Stack and Mobile Developer",
+        "years": "April 2022 - Present",
+        "description": "Developing business solutions related to production monitoring."
+      },
+      {
         "company": "Peppertools",
         "title": "TI Manager && CNC Programmer",
-        "years": "April 2017 - Present",
+        "years": "April 2017 - Feb 2023",
         "description": "Developing business solutions and working with threading machines."
       },
+    
       {
         "company": "IZOTX Brazil",
         "title": "Front End",
@@ -75,11 +112,11 @@
       },
       {
         "name": "Python",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "PHP",
-        "level": "70%"
+        "level": "90%"
       },
       {
         "name": "HTML5",
