@@ -96,25 +96,25 @@
       {
         "title": "B2B Mobile App",
         "category": "Mobile app built with React Native",
-        "image": "port1.png",
+        "image": "port8.png",
         "url": "https://www.b2bnetwork.com.br"
       },
       {
         "title": "Energy Monitoring Platform",
         "category": "Web app built with Next.js and Yii Framework",
-        "image": "port1.png",
+        "image": "port6.png",
         "url": "https://www.energiadascoisas.com.br"
       },
       {
         "title": "inProcesses",
-        "category": "Startup site built with LAMP (Linux, Apache, MySQL, PHP)",
-        "image": "port1.png",
+        "category": "Startup site built with Django",
+        "image": "port7.png",
         "url": "https://inProcesses.com"
       },
       {
-        "title": "B2MO Tech",
+        "title": "BeyTech",
         "category": "Bitrix24 integration webapp built with Python (Django) and JavaScript",
-        "image": "port1.png",
+        "image": "port9.png",
         "url": "https://beytech.com.br"
       },
       {
